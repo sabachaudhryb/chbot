@@ -162,7 +162,7 @@ $ips=$me.' '.$gwe[name];
 $like=$back[rand(0,count($back)-1)];
 $eps=$like.' TOPPERX HERE '.$nm;
 $ops=getJam($nm);
-$site=' 💢Self Comment Site 💢 full-top.tk
+$site=' 💢Self Comment Site 💢 selfi-top.tk
 
 <3 -[CHAUDHRY-BOTTER-TEAM]- <3';
 $true=$ops.'
