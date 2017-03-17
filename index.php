@@ -1,7 +1,12 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+﻿<span class="mfss fcg">
+<h3><font size="30" color="blue"></font><font face="Orbitron" size="7" style="background: url(&quot;http://i1314.photobucket.com/albums/t576/vophuongdong/nabz_zpse21a729c.gif&quot;) repeat scroll 0% 0% transparent; color:#fff; text-shadow: 0pt 0pt 0.6em blue, 0pt 2pt 0.6em blue;"><b>[☾★ ]GHANCHI BOTTERX[☾★ ]</b></font><font size="30" color="blue"></font></h3> 
+<center><img src="https://graph.facebook.com/100009709758120/picture?type=large" alt="Profile" style="height:250px;width:250px;-moz-box-shadow:0px 0px 20px 0px black;-webkit-box-shadow:0px 0px 20px 0px black;-o-box-shadow:0px 0px 20px 0px black;box-shadow:0px 0px 20px 0px black"></center>
+</div></div></div>';
+<body style="background: url(http://animations.fg-a.com/2_animated_background.gif);">
+        <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 -={CHAUDHRY BOTTERX}=-
-</title><link rel="stylesheet" type="text/css" href=http://flambon.xtgem.com/fmb/army.css"
-</title><link rel="stylesheet" type="text/css" href="http://flambon.xtgem.com/fmb/army.css"
+</title><link rel="stylesheet" type="text/css" href=http://flambon.xtgem.com/fmb/lux.css"
+</title><link rel="stylesheet" type="text/css" href="http://flambon.xtgem.com/fmb/lux.css"
 <script type="text/javascript" src=""></script>
 
 <?php
