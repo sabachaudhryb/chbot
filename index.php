@@ -1,8 +1,8 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 -={CHAUDHRY BOTTERX}=-
-</title><link rel="stylesheet" type="text/css" href="http://xxx-0.ml/bb.css"
-</title><link rel="stylesheet" type="text/css" href="http://xxx-0.ml/lucke.css"
-<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=a28e6fl34q"></script>
+</title><link rel="stylesheet" type="text/css" href=http://flambon.xtgem.com/fmb/army.css"
+</title><link rel="stylesheet" type="text/css" href="http://flambon.xtgem.com/fmb/army.css"
+<script type="text/javascript" src=""></script>
 
 <?php
 session_start();
